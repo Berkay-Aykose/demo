@@ -1,20 +1,29 @@
 [
   {
     "id": 1,
-    "baslik": "Didim Altınkum 2+1",
-    "aciklama": "Denize 5 dakika mesafede, krediye uygun.",
-    "fiyat": "2.300.000 TL",
-    "resim_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/reism1.png",
-    "pdf_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logolu.pdf",
-    "konum": "Aydın / Didim / Altınkum"
+    "baslik": "Bodrum Bağla'da Müstakil Havuzlu Deniz Manzaralı Muhteşem Villa 5+1",
+    "aciklama": "Açıklama ev1",
+    "fiyat": "62.500.000 TL",
+    "resimler": [
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/reism1.png",
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/resim2.png"
+    ],
+    "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logolu.pdf",
+    "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logosuz.pdf",
+    "konum": "Muğla / Bodrum "
   },
   {
     "id": 2,
-    "baslik": "Kuşadası Marina 3+1",
-    "aciklama": "Marina’ya yürüme mesafesinde, deniz manzaralı geniş daire.",
-    "fiyat": "3.850.000 TL",
-    "resim_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim1.png",
-    "pdf_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logolu.pdf",
-    "konum": "Aydın / Kuşadası / Marina"
+    "baslik": "Bodrum Eskicesme'de Dubleks Müstakil Ev 2+1",
+    "aciklama": "Açıklama ev2",
+    "fiyat": "5.950.000 TL",
+    "resimler": [
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim1.png",
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim2.png",
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim3.png"
+    ],
+    "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logolu.pdf",
+    "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logosuz.pdf",
+    "konum": "Muğla / Bodrum"
   }
 ]

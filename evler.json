@@ -11,14 +11,14 @@
     ],
     "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logolu.pdf",
     "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logosuz.pdf",
-    "konum": "Muğla / Bodrum / Bağla"
+    "konum": "Muğla / Bodrum / İslamhaneleri Mh."
   },
   {
     "id": 2,
     "tip": "satilik",
     "baslik": "Bodrum Eskicesme'de Dubleks Müstakil Ev 2+1",
     "aciklama": "Açıklama ev2",
-    "fiyat": "45.000 TL / aylık",
+    "fiyat": "5.950.000 TL",
     "resimler": [
       "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim1.png",
       "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim2.png",
@@ -26,14 +26,14 @@
     ],
     "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logolu.pdf",
     "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logosuz.pdf",
-    "konum": "Muğla / Bodrum / Eskicesme"
+    "konum": "Muğla / Bodrum / Eskiçeşme Mh."
   },
   {
     "id": 3,
     "tip": "kiralik",
     "baslik": "Bodrum Gümüşlük Denize Yakın 1+1 Eşyalı Bahçe Kat Yıllık KİRALIK 1+1",
-    "aciklama": "Açıklama ev3",
-    "fiyat": "22.500 TL",
+    "aciklama": "Açıklama ev3...",
+    "fiyat": "22.500 TL / aylık",
     "resimler": [
       "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev3/resim1.png",
       "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev3/resim2.png",
@@ -41,6 +41,6 @@
     ],
     "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logolu.pdf",
     "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logosuz.pdf",
-    "konum": "Muğla / Bodrum / Bağla"
+    "konum": "Muğla / Bodrum / Koyunbaba Mh."
   }
 ]

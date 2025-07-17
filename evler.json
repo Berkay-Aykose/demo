@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "tip": "kiralik",
+    "tip": "satilik",
     "baslik": "Bodrum Eskicesme'de Dubleks Müstakil Ev 2+1",
     "aciklama": "Açıklama ev2",
     "fiyat": "45.000 TL / aylık",
@@ -27,5 +27,20 @@
     "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logolu.pdf",
     "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logosuz.pdf",
     "konum": "Muğla / Bodrum / Eskicesme"
+  },
+  {
+    "id": 3,
+    "tip": "kiralik",
+    "baslik": "Bodrum Gümüşlük Denize Yakın 1+1 Eşyalı Bahçe Kat Yıllık KİRALIK 1+1",
+    "aciklama": "Açıklama ev3",
+    "fiyat": "22.500 TL",
+    "resimler": [
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev3/reism1.png",
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev3/resim2.png",
+      "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev3/resim3.png"
+    ],
+    "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logolu.pdf",
+    "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logosuz.pdf",
+    "konum": "Muğla / Bodrum / Bağla"
   }
 ]

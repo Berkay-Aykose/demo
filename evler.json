@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "tip": "satilik",
     "baslik": "Bodrum Bağla'da Müstakil Havuzlu Deniz Manzaralı Muhteşem Villa 5+1",
     "aciklama": "Açıklama ev1",
     "fiyat": "62.500.000 TL",
@@ -10,13 +11,14 @@
     ],
     "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logolu.pdf",
     "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logosuz.pdf",
-    "konum": "Muğla / Bodrum "
+    "konum": "Muğla / Bodrum / Bağla"
   },
   {
     "id": 2,
+    "tip": "kiralik",
     "baslik": "Bodrum Eskicesme'de Dubleks Müstakil Ev 2+1",
     "aciklama": "Açıklama ev2",
-    "fiyat": "5.950.000 TL",
+    "fiyat": "45.000 TL / aylık",
     "resimler": [
       "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim1.png",
       "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim2.png",
@@ -24,6 +26,6 @@
     ],
     "pdf_logolu": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logolu.pdf",
     "pdf_logosuz": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logosuz.pdf",
-    "konum": "Muğla / Bodrum"
+    "konum": "Muğla / Bodrum / Eskicesme"
   }
 ]

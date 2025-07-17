@@ -3,7 +3,18 @@
     "id": 1,
     "baslik": "Didim Altınkum 2+1",
     "aciklama": "Denize 5 dakika mesafede, krediye uygun.",
-    "resim_url": "https://via.placeholder.com/300x200.png?text=Ev+1",
-    "pdf_url": "https://raw.githubusercontent.com/Berkay-Aykose/deneme/main/Berkay.pdf"
+    "fiyat": "2.300.000 TL",
+    "resim_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/reism1.png",
+    "pdf_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev1/logolu.pdf",
+    "konum": "Aydın / Didim / Altınkum"
+  },
+  {
+    "id": 2,
+    "baslik": "Kuşadası Marina 3+1",
+    "aciklama": "Marina’ya yürüme mesafesinde, deniz manzaralı geniş daire.",
+    "fiyat": "3.850.000 TL",
+    "resim_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/resim1.png",
+    "pdf_url": "https://raw.githubusercontent.com/Berkay-Aykose/demo/main/ev2/logolu.pdf",
+    "konum": "Aydın / Kuşadası / Marina"
   }
 ]
